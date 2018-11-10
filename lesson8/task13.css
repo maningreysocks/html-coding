@@ -1,0 +1,6 @@
+strong:hover {
+    color: #0088cc;
+}
+td:hover > em {
+    display: inline;
+}

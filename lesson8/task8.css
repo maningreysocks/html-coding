@@ -1,7 +1,7 @@
-.places li {
+.places > li > span:first-child {
     border-bottom: 2px solid #cccccc;
 }
 
-.places span {
+.places > li > span:first-child {
     font-weight: bold;
 }

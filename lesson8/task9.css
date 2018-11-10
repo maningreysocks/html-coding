@@ -1,0 +1,6 @@
+ul > li:first-child {
+    background-color: red;
+}
+ul > li:last-child {
+    background-color: yellow;
+}
