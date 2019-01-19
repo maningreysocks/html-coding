@@ -180,7 +180,7 @@ section {
     margin-left: 10px;
 }
 
-.cities-text {
+.cities-text, customers-text {
     display: inline;
     float: left;
     margin-right: 30px;
@@ -195,3 +195,69 @@ section {
     margin-left: 300px;
     margin-top: 40px;
 }
+
+.cities-link {
+    display: inline;
+    float: left;
+    margin-right: 30px;
+    color: orange;
+}
+
+.customers-icon {
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.customer {
+    margin: 10px;
+}
+
+.customers {
+    margin-left: 350px;
+    margin-top: 40px;
+    background-color: rgba(0, 0, 0, 1);
+    height: 600px;
+    position: relative;
+}
+
+.background-image2 {
+    width: 1519px;
+    height: 600px;
+    opacity: 0.25;
+}
+
+.customers-items {
+    position: absolute;
+    left: 200px;
+    top: 50px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
